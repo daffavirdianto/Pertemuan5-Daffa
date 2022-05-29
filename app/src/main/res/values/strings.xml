@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan5</string>
+    <string name="action_sign_in_short" />
+    <string name="error_invalid_email">Email Salah</string>
+    <string name="error_field_required" />
+    <string name="error_invalid_password">Password Harus 4 Kata</string>
+    <string name="prompt_email">Masukan Email</string>
+    <string name="prompt_password">Masukan Password</string>
+
+</resources>
